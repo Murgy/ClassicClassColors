@@ -1,0 +1,7 @@
+## Interface: 11305
+## Title: Classic Class Colors
+## Author: Murgy
+## Version: 1.0.0
+## Notes: Enables Class coloring in chat & raid frames
+
+ClassicClassColors.lua
