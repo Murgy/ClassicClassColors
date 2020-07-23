@@ -1,2 +1,3 @@
 # ClassicClassColors
-Enables Class Colors in WoW Classic
+World of Warcraft addon that enables Class Colors in WoW Classic
+
