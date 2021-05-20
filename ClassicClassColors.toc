@@ -1,4 +1,4 @@
-## Interface: 11305
+## Interface: 11307
 ## Title: Classic Class Colors
 ## Author: Murgy
 ## Version: 1.0.0
